@@ -1,0 +1,3 @@
+[submodule "LabTest"]
+	path = LabTest
+	url = https://github.com/AndrewPevkin013/LabTest.git
